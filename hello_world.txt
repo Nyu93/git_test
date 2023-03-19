@@ -1,0 +1,2 @@
+I am currently working on the Git Basics section of The Odin project
+It is going well
